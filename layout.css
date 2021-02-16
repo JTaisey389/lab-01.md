@@ -1,0 +1,45 @@
+body {
+  margin: 15px;
+  border: 15px;
+  padding: 15px;
+}
+
+div.a {
+  height: 960px;
+  width: 100;
+  background-color: darkgray;
+  border: thin solid black;
+}
+div.b {
+  height: 200px;
+  width: 600;
+  background-color: darkgray;
+  border: thin solid black;
+}
+div.c, div.d {
+  height: 380px;
+  width: 200px;
+  background-color: darkgray;
+  border: thin solid black;
+}
+div.e, div.f, div.g, div.h {
+  height: 190px;
+  width: 250px;
+  background-color: darkgray;
+  border: thin solid black;
+}
+
+div.i {
+  height: 380px;
+  width: 200px;
+  background-color: darkgray;
+  border: thin solid black;
+}
+p {
+  text-align: center;
+  margin: 50%;
+}
+@media only screen and (max-width:480px) {
+  
+
+}
