@@ -1,5 +1,8 @@
 div {
-  border: black 1px solid;
+  border: black 2px solid;
   background-color: grey;
+  border-radius: 20px;
+  font-size: larger;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
